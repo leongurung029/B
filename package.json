@@ -1,0 +1,22 @@
+{
+  "name": "b",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/leongurung029/B.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/leongurung029/B/issues"
+  },
+  "homepage": "https://github.com/leongurung029/B#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
